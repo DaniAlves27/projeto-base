@@ -1,0 +1,44 @@
+.posicao-img{
+    max-width: 25rem;
+}
+
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 85%;
+    height: 400px;
+}
+
+
+.font-T{
+    font-family: "Pacifico", cursive;
+    
+}
+
+.font-T1{
+    font-family: "Pacifico", cursive;
+    -webkit-text-stroke-width: 1px;
+    
+}
+
+.cor-especial{
+    color: darkred;
+}
+
+
+.btn-card{
+    background-color: darkred;
+    color: #ffff;
+}
+
+.color-b{
+    border-color: darkred;
+}
+
+.img-card{
+    object-fit: cover;
+    height: 200px;
+}
+
+.link{
+    text-decoration: none;
+}
